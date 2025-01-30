@@ -17,7 +17,6 @@ This project uses machine learning techniques to:
 - **Prediction**: Accurately estimates the amount of paint required for a given job.
 - **Recommendation System**: Suggests the best paint type based on input conditions.
 - **Streamlit Web App**: User-friendly interface for predictions.
-- **Power BI Dashboards**: Visual analysis of paint usage trends and recommendations.
 - **Trained Models**: Utilizes advanced models like XGBoost for high accuracy.
 
 ---
