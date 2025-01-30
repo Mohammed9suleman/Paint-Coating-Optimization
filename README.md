@@ -62,14 +62,6 @@ Launch the Streamlit app locally:
 streamlit run app/app.py
 ```
 
----
-
-## 📊 Visualizations
-Explore Power BI dashboards for detailed insights into:
-- Paint usage trends across environmental conditions.
-- Comparison of paint types for efficiency.
-
----
 
 ## 🤖 Machine Learning
 The project employs the following models:
@@ -91,10 +83,6 @@ The project employs the following models:
 ## 🙌 Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
----
-
-## 📜 License
-This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
